@@ -1,0 +1,5 @@
+G:\TrainingKit\VS2010TrainingTrainingKit\CSharp4.0\Expression\ExpressionDemo1\bin\Debug\ExpressionDemo1.exe
+G:\TrainingKit\VS2010TrainingTrainingKit\CSharp4.0\Expression\ExpressionDemo1\bin\Debug\ExpressionDemo1.pdb
+G:\TrainingKit\VS2010TrainingTrainingKit\CSharp4.0\Expression\ExpressionDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TrainingKit\VS2010TrainingTrainingKit\CSharp4.0\Expression\ExpressionDemo1\obj\x86\Debug\ExpressionDemo1.exe
+G:\TrainingKit\VS2010TrainingTrainingKit\CSharp4.0\Expression\ExpressionDemo1\obj\x86\Debug\ExpressionDemo1.pdb
